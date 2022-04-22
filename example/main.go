@@ -19,9 +19,9 @@ import (
 
 func main() {
 	tim := im.NewIM(&im.Options{
-		AppId:     1400579830,                                                         // 无效的AppId,请勿直接使用
-		AppSecret: "0d2a321b087fdb8fd5ed5ea14fe0489139086eb1b03541283fc9feeab8f2bfd3", // 无效的AppSecret,请勿直接使用
-		UserId:    "administrator",                                                    // 管理员用户账号，请在腾讯云IM后台设置管理账号
+		//AppId:     1400579830,                                                         // 无效的AppId,请勿直接使用
+		//AppSecret: "0d2a321b087fdb8fd5ed5ea14fe0489139086eb1b03541283fc9feeab8f2bfd3", // 无效的AppSecret,请勿直接使用
+		//UserId:    "administrator",                                                    // 管理员用户账号，请在腾讯云IM后台设置管理账号
 	})
 
 	// 导入账号
